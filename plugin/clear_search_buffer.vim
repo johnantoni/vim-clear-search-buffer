@@ -1,4 +1,4 @@
-if exists("g:rename_file_loaded")
+if exists("g:clear_search_buffer")
   finish
 endif
 
