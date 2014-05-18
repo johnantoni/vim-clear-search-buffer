@@ -12,8 +12,14 @@ Simply add to you plugins in .vimrc
 
 Launch VIM and run:
   
-    :BundleInstall!
+    :BundleInstall
+    
+### Update
 
+Launch VIM and run:
+  
+    :BundleInstall!
+    
 ### Copyright
 
 Copyright (c) 2014 John Griffiths. See [LICENSE](LICENSE) for details.
